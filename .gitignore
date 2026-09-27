@@ -1,0 +1,9 @@
+# Python virtual environment
+.venv/
+
+# Python bytecode cache (created automatically when code runs)
+__pycache__/
+*.pyc
+
+# Secrets: environment files with API keys and passwords
+.env
