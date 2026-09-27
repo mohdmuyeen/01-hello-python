@@ -9,3 +9,4 @@ Environment: Windows 11, VS Code, Python 3.14, Git, Docker Desktop.
 - Understand LLMs and generative AI
 - Build RAG applications
 - Build MCP servers
+- Deploy AI applications to AWS
